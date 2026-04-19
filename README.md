@@ -13,9 +13,9 @@ Before ES6 (2015), `var` was the only way to declare variables. It has several q
 
 ```javascript
 if (true) {
-  var name = "Gemini";
+  var name = "Jeya";
 }
-console.log(name); // "Gemini" (Works because var ignores block scope)
+console.log(name); // "Jeya" (Works because var ignores block scope)
 ```
 
 ---
