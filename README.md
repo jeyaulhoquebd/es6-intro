@@ -1,4 +1,4 @@
-# `difference between var let const`
+# 1 `difference between var let const`
 
 In JavaScript, understanding the nuances between `var`, `let`, and `const` is fundamental to writing clean, predictable code. While they all serve the purpose of declaring variables, they behave differently regarding **scope**, **hoisting**, and **reassignment**.
 
